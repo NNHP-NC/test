@@ -299,7 +299,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/test.jpg);
+	background-image: url(../images/Heading_1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -307,7 +307,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/test.jpg);
+	background-image: url(../images/Heading_1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -315,7 +315,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/test.jpg);
+	background-image: url(../images/Heading_1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -405,6 +405,7 @@ header .navbar {
 .product-item .down-content {
 	padding: 30px;
 	position: relative;
+	text-align: center;
 }
 
 .product-item img {
